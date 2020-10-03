@@ -9,7 +9,7 @@ To get the Node server running locally:
 - `npm install` to install all required dependencies
 - I have used MongoDB Atlas
 - `npm start` to start the local server
-
+- `npm test` to test the application
 # Code Overview
 
 ## Dependencies
