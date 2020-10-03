@@ -1,1 +1,1 @@
-{ "DBHost": "mongodb+srv://dbBook:fKkJDMv7vZKyzpDp@cluster0.ipxgk.mongodb.net/test?retryWrites=true&w=majority" }
+{ "DBHost": "mongodb+srv://dbuser:dbuserpassword@cluster0.ipxgk.mongodb.net/test?retryWrites=true&w=majority" }
