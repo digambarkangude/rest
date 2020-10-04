@@ -7,7 +7,7 @@ To get the Node server running locally:
 
 - Clone this repo
 - `npm install` to install all required dependencies
-- I have used MongoDB Atlas
+- I have used MongoDB Atlas. (Please make sure you are adding connection url into /config/default.json, dev.json and test.json)
 - `npm start` to start the local server
 - `npm test` to test the application
 # Code Overview
